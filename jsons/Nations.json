@@ -20,8 +20,8 @@
 
 		"tradeRequest": "Let's share the blessings of this planet together. Hey?",
 
-		"outerColor": [85, 85, 85],
-		"innerColor": [126, 192, 253],
+		"outerColor": [1, 119, 115],
+		"innerColor": [255, 255, 128],
 		"favoredReligion": "Virtualism",
 		"uniqueName": "Alpha Centauri Chauvinism",
 		"uniques": ["Reveal up to [100] [All] within a [7] tile radius"],
