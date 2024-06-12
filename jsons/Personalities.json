@@ -1,0 +1,23 @@
+[	
+	{
+		"name": "Planetary Chauvinists",
+		"preferredVictoryType": "Domination",
+		"culture": 14,
+		"faith": 10,
+		"food": 10,
+		"gold": 12,
+		"happiness": 15,
+		"production": 10,
+		"science": 9,
+		"military": 20,
+		"priorities": {
+			"Liberty": 19,
+			"Commerce": 30,
+			"Autocracy": 12
+		},
+		"warMongering": 20,
+		"civilopediaText": [
+			{"text": "They are extremely chauvinistic and extremely attached to the planet they live on. They are militaristic strong and so annoying, but they are out of touch with any innovations."}
+		]
+	}
+]
