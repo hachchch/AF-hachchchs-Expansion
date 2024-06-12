@@ -4,7 +4,7 @@
                 "leaderName": "Sheeta Laxman",
 		"adjective": ["C-One"],
 		"startBias": ["non-[Coastal]"],
-		"personality": "Xenophobia",
+		"personality": "Planetary Chauvinists",
 		"preferredVictoryType":"Cultural",
 
 		"startIntroPart1": "Hello, Sheeta Laxman. There is 24 years have passed since we were defeated in the war, deployed the Light Sail, and miraculously drifted to this planet. Also it is meaning 24 years since humanity reached Alpha Centauri. Life on Alpha Centauri was not hopeless, as it had a complete ecosystem and was even suitable for breeding. We are beginning to completely dominate nature, just as our ancestors did on Earth in the past.",
@@ -24,7 +24,9 @@
 		"innerColor": [255, 255, 128],
 		"favoredReligion": "Virtualism",
 		"uniqueName": "Alpha Centauri Chauvinism",
-		"uniques": ["Reveal up to [100] [All] within a [7] tile radius"],
+		"uniques": ["Reveal up to [100] [All] within a [7] tile radius",
+		"[-33]% Culture cost of natural border growth [in all cities]",
+		"[+2 Happiness] for every known Natural Wonder"],
 		"cities": [
 			"New Home",
 			"Schwarz",
