@@ -1,0 +1,32 @@
+[
+        {
+		"columnNumber": 7,
+		"era": "Halcyon era",
+		"techCost": 780,
+		"buildingCost": 520,
+		"wonderCost": 1040,
+		"techs": [
+			{
+				"name": "Xenobiogeography",
+				"row": 2,
+				"quote": ".",
+				"prerequisites": ["Xenoarchaeology","Genetics"]
+			}
+		]
+        },
+        {
+                "columnNumber": 9,
+		"era": "Realization era",
+		"techCost": 1600,
+		"buildingCost": 820,
+		"wonderCost": 1640,
+		"techs": [
+			{
+				"name": "Genetic Hybridization",
+				"row": 3,
+				"quote": "'Claims of us turning unwilling people into human-insect monsters are unfounded. We have digitally signed records of our clients volunteering to be one.' - Igor Brundle, geneticist",
+				"prerequisites": ["Cloning","Xenobiogeography"]
+                        }
+                ]
+        }
+]
