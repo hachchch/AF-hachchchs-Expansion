@@ -47,11 +47,123 @@
 		"uniques": [
 			"Unbuildable","Unsellable",
 			"Organic",
-			"[+1 ] from [Fresh water] tiles [in this city]"
+			"Fauna",
+			"[+1 Food] from [{Ocean} {Aquaculture}] tiles [in this city]",
+			"[-1 Food] from [Sindrian Lobster] tiles [in this city]"
 		],
 		"civilopediaText": [
 			{
-				"text": "Diatoms appeared in Earth's Cretaceous period and have made up half of the ocean's sediments ever since. The dispersal of diatomaceous earth by westerly winds makes the desert fertile every year. Diatomaceous earth is also of industrial value."
+				"text": "Teleost fishes make up most of the vertebrates on Earth, and their introduction to this region would have a tremendous impact on the ecosystem."
+			}
+		]
+	},
+	{
+		"name": "Horse Chestnut",
+		"cost": 1,
+		"uniques": [
+			"Unbuildable","Unsellable",
+			"Organic",
+			"Flora",
+			"[+1 Food] from [Exotic Fruits] tiles [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "Horse chestnut is a deciduous tree. Dead leaves serve as food for xenos. Also, tree nuts are poisonous, but xenos may like them."
+			}
+		]
+	},
+	{
+		"name": "Stony Coral",
+		"cost": 1,
+		"uniques": [
+			"Unbuildable","Unsellable",
+			"Organic",
+			"Fauna",
+			"[+1 Food] from [{Water} {Organic}] tiles [in this city]",
+			"[+1 Gold] from [Coast] tiles [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "Corals are extremely delicate creatures. If this species could be introduced, it would become a tourist resource and the advertising effect would be tremendous."
+			}
+		]
+	},
+	{
+		"name": "Kelp",
+		"cost": 1,
+		"uniques": [
+			"Unbuildable","Unsellable",
+			"Organic",
+			"Flora",
+			"[+1 Food] from [Algae] tiles [in this city]",
+			"[+1 Food] from [Sindrian Lobster] tiles [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "Kelp is the most important species in the marine ecosystem. It not only provides food and produces large amounts of oxygen, but also improves water quality. That's why brown algae are always planted in aquariums."
+			}
+		]
+	},
+	{
+		"name": "Tree Sparrow",
+		"cost": 1,
+		"uniques": [
+			"Unbuildable","Unsellable",
+			"Organic",
+			"Fauna",
+			"[+1 Food] from [Tubers] tiles [in this city]",
+			"[+1 Food] from [Snuffets] tiles [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "Tree Sparrows are pests that eat grain, but they also eat pests that breed in fields. On this planet where there are many pests, they will be the savior of your farming village."
+			}
+		]
+	},
+	{
+		"name": "Tree Sparrow",
+		"cost": 1,
+		"uniques": [
+			"Unbuildable","Unsellable",
+			"Organic",
+			"Fauna",
+			"[+1 Food] from [Algae] tiles [in this city]",
+			"[+1 Gold] from [Sindrian Lobster] tiles [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "Tree Sparrows are pests that eat grain, but they also eat pests that breed in fields. On this planet where there are many pests, they will be the savior of your farming village."
+			}
+		]
+	},
+	{
+		"name": "Beaver",
+		"cost": 1,
+		"uniques": [
+			"Unbuildable","Unsellable",
+			"Organic",
+			"Fauna",
+			"[+1 Food] from [Fresh water] tiles [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "Beavers are natural architects. Dams built by beavers change the flow of rivers and help new species go through the river. Their presence will create biodiversity in the river."
+			}
+		]
+	},
+	{
+		"name": "Dogs",
+		"cost": 1,
+		"happiness": 3,
+		"uniques": [
+			"Unbuildable","Unsellable",
+			"Organic",
+			"Fauna",
+			"[-1 Food] from [{Land} {Organic}] tiles [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "Domestic dogs are a source of comfort to humans, but wild dogs are a fear to nature. We must pay close attention to the rabies pandemic."
 			}
 		]
 	}
