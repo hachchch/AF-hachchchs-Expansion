@@ -10,7 +10,7 @@
 				"name": "Xenobiogeography",
 				"row": 2,
 				"quote": ".",
-				"prerequisites": ["Xenoarchaeology","Genetics"]
+				"prerequisites": ["Genetics"]
 			}
 		]
         },
