@@ -19,11 +19,40 @@
                 "name": "Introduce Earth Species",
                 "requiredBuilding": "Orbital Launch Facility",
                 "requiredTech": "Xenobiogeography",
-                "uniques": ["Introduce the species from earth.","Triggers a [Gift from earth] event"],
+                "uniques": ["Introduce the species from earth.","Triggers a [Gift from earth] event","Unbuildable <hidden from users>"],
                 "civilopediaText": [
 			{
 				"text": "Species that humans intentionally transport to new regions can subsequently become successfully."
 			}
 		]
-        }
+        },
+	/*Introduced Species*/
+	{
+		"name": "Diatom",
+		"cost": 1,
+		"uniques": [
+			"Unbuildable","Unsellable",
+			"Organic",
+			"[+1 Production] from [Fresh water] tiles [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "Diatoms appeared in Earth's Cretaceous period and have made up half of the ocean's sediments ever since. The dispersal of diatomaceous earth by westerly winds makes the desert fertile every year. Diatomaceous earth is also of industrial value."
+			}
+		]
+	},
+	{
+		"name": "Bony Fishes",
+		"cost": 1,
+		"uniques": [
+			"Unbuildable","Unsellable",
+			"Organic",
+			"[+1 ] from [Fresh water] tiles [in this city]"
+		],
+		"civilopediaText": [
+			{
+				"text": "Diatoms appeared in Earth's Cretaceous period and have made up half of the ocean's sediments ever since. The dispersal of diatomaceous earth by westerly winds makes the desert fertile every year. Diatomaceous earth is also of industrial value."
+			}
+		]
+	}
 ]
