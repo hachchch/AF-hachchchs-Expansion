@@ -19,7 +19,7 @@
                 "name": "Introduce Earth Species",
                 "requiredBuilding": "Orbital Launch Facility",
                 "requiredTech": "Xenobiogeography",
-                "uniques": ["Introduce the species from earth.","Triggers a [Gift from earth] event","Unbuildable <hidden from users>"],
+                "uniques": ["Introduce the species from earth.","Triggers a [Gift from earth] event","Unbuildable <hidden from users>","Remove [Introduce Earth Species] [in this city] <hidden from users>"],
                 "civilopediaText": [
 			{
 				"text": "Species that humans intentionally transport to new regions can subsequently become successfully."
