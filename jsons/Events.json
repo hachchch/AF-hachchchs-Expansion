@@ -47,49 +47,49 @@
                         {
                                 "text": "Remove Diatom",
                                 "conditions": ["when number of [Diatom] is greater than [0]"],
-                                "triggeredUniques": ["Gain [-200] [Gold] <for every [Diatom]>","-1 Happiness in this city",
+                                "triggeredUniques": ["Gain [-200] [Gold] <for every [Diatom]>","-1 Happiness in this city","[-1 Happiness] <for [9999] turns> <hidden from users>",
                                 "Remove [Diatom] [in all cities] <hidden from users>"]
                         },
                         {
                                 "text": "Remove Bony Fishes",
                                 "conditions": ["when number of [Bony Fishes] is greater than [0]"],
-                                "triggeredUniques": ["Gain [-100] [Gold] <for every [Bony Fishes]>","-1 Happiness in this city",
+                                "triggeredUniques": ["Gain [-100] [Gold] <for every [Bony Fishes]>","-1 Happiness in this city","[-1 Happiness] <for [9999] turns> <hidden from users>",
                                 "Remove [Bony Fishes] [in all cities] <hidden from users>"]
                         },
                         {
                                 "text": "Remove Horse Chestnut",
                                 "conditions": ["when number of [Horse Chestnut] is greater than [0]"],
-                                "triggeredUniques": ["Gain [-100] [Gold] <for every [Horse Chestnut]>","-1 Happiness in this city",
+                                "triggeredUniques": ["Gain [-100] [Gold] <for every [Horse Chestnut]>","-1 Happiness in this city","[-1 Happiness] <for [9999] turns> <hidden from users>",
                                 "Remove [Horse Chestnut] [in all cities] <hidden from users>"]
                         },
                         {
                                 "text": "Remove Stony Coral",
                                 "conditions": ["when number of [Stony Coral] is greater than [0]"],
-                                "triggeredUniques": ["Gain [-100] [Gold] <for every [Stony Coral]>","-1 Happiness in this city",
+                                "triggeredUniques": ["Gain [-100] [Gold] <for every [Stony Coral]>","-1 Happiness in this city","[-1 Happiness] <for [9999] turns> <hidden from users>",
                                 "Remove [Stony Coral] [in all cities] <hidden from users>"]
                         },
 			{
                                 "text": "Remove Kelp",
                                 "conditions": ["when number of [Kelp] is greater than [0]"],
-                                "triggeredUniques": ["Gain [-150] [Gold] <for every [Kelp]>","-1 Happiness in this city",
+                                "triggeredUniques": ["Gain [-150] [Gold] <for every [Kelp]>","-1 Happiness in this city","[-1 Happiness] <for [9999] turns> <hidden from users>",
                                 "Remove [Kelp] [in all cities] <hidden from users>"]
                         },
 			{
 				"text": "Remove Tree Sparrow",
                                 "conditions": ["when number of [Tree Sparrow] is greater than [0]"],
-				"triggeredUniques": ["Gain [-100] [Gold] <for every [Tree Sparrow]>","-1 Happiness in this city",
+				"triggeredUniques": ["Gain [-100] [Gold] <for every [Tree Sparrow]>","-1 Happiness in this city","[-1 Happiness] <for [9999] turns> <hidden from users>",
                                 "Remove [Tree Sparrow] [in all cities] <hidden from users>"]
 			},
                         {
                                 "text": "Remove Beaver",
                                 "conditions": ["when number of [Beaver] is greater than [0]"],
-				"triggeredUniques": ["Gain [-100] [Gold] <for every [Beaver]>","-1 Happiness in this city",
+				"triggeredUniques": ["Gain [-100] [Gold] <for every [Beaver]>","-1 Happiness in this city","[-1 Happiness] <for [9999] turns> <hidden from users>",
                                 "Remove [Beaver] [in all cities] <hidden from users>"]
                         },
                         {
                                 "text": "Remove Dogs",
                                 "conditions": ["when number of [Dogs] is greater than [0]"],
-				"triggeredUniques": ["Gain [-100] [Gold] <for every [Dogs]>","-4 Happiness in this city",
+				"triggeredUniques": ["Gain [-100] [Gold] <for every [Dogs]>","-4 Happiness in this city","[-1 Happiness] <for [9999] turns> <hidden from users>",
                                 "Remove [Dogs] [in all cities] <hidden from users>"]
                         }
                 ]
