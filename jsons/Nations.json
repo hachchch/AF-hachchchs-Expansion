@@ -3,7 +3,7 @@
                 "name": "Centauri One",
                 "leaderName": "Sheeta Laxman",
 		"adjective": ["C-One"],
-		"startBias": ["non-[Coastal]"],
+		"startBias": ["Avoid [Coastal]"],
 		"personality": "Planetary Chauvinists",
 		"preferredVictoryType":"Cultural",
 
@@ -61,5 +61,67 @@
 			"Centauri Two",
 			"Spawner"
 		]
-        }
+	},
+	{
+		"name": "Core Tech Society",
+		"leaderName": "Kelber Heimdall",
+		"adjective": ["CTS"],
+		"startBias": ["Plains"],
+		"personality": "Planetary Chauvinists",
+		"preferredVictoryType":"Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": "Hi.",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [1, 119, 115],
+		"innerColor": [255, 255, 128],
+		"favoredReligion": "Virtualism",
+		"uniqueName": "Great Integration",
+		"uniques": ["[+15]% [Science] <for every [National Wonder]>",
+			"[-100]% maintenance cost for buildings [in capital]"],
+		"cities": [
+			"Metacore",
+			"World Two",
+			"MBG-B",
+			"Asgard",
+			"Happtia",
+			"Obi Point",
+			"Polar",
+			"East Delta",
+			"Lua Mao",
+			"Tochigistan",
+			"Clownfish Point",
+			"Gunmer Point",
+			"Ibarakistan",
+			"Thekta",
+			"Western Hole",
+			"Luthos",
+			"Fernade",
+			"Chain Hill",
+			"Swails",
+			"AndSoOn"
+		],
+		"spyNames": [
+			"Ozma",
+			"Waynor",
+			"Dicitur",
+			"Chalybe",
+			"Tribuo",
+			"Aquarum",
+			"Hoshidai",
+			"John",
+			"Centauri Two",
+			"Spawner"
+		]
+	}
 ]
