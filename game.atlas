@@ -10,3 +10,10 @@ NationIcons/Centauri One
   orig: 200, 200
   offset: 0, 0
   index: -1
+NationIcons/Core Tech Society
+  rotate: false
+  xy: 200, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
