@@ -11,8 +11,8 @@
                 "requiredTech": "Xenobiogeography",
                 "food": 2,
                 "maintenance": 1,
-                "uniques": ["[+1 Food] from [Organic] tiles [in this city] <when number of [Food] is greater than [9]>",
-                        "[+1 Food] from [Organic] tiles [in this city] <when number of [Food] is greater than [19]>"]
+                "uniques": ["[+1 Food] from [Organic] tiles [in this city] <when number of [Food] is more than [9]>",
+                        "[+1 Food] from [Organic] tiles [in this city] <when number of [Food] is more than [19]>"]
         },
         /*Event Trigger*/
         {
