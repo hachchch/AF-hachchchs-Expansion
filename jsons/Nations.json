@@ -87,7 +87,7 @@
 		"innerColor": [208, 244, 255],
 		"favoredReligion": "Virtualism",
 		"uniqueName": "One Core, One Unity",
-		"uniques": ["[+15]% [Science] <for every [National Wonder]>",
+		"uniques": ["[+15]% [Science] <for every [National Wonder] Buildings>",
 			"[-100]% maintenance cost for buildings [in capital]"],
 		"cities": [
 			"Center Metacore",
